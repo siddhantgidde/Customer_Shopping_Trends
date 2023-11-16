@@ -3,10 +3,10 @@
 
 #### From the analysis, I found answers to interesting questions such as:
 
-#### 1. Which payment method and shipping type are preferred by customers the most?
-#### 2. Which season had the most purchases?
-#### 3. At what age did customers make the most purchases?
-#### 4. What is the total number of purchases for each category in each season?
-#### 5. What is the frequency of purchases by customers?
+1. Which payment method and shipping type are preferred by customers the most?
+2. Which season had the most purchases?
+3. At what age did customers make the most purchases?
+4. What is the total number of purchases for each category in each season?
+5. What is the frequency of purchases by customers?
 
 #### • This dataset includes various details about customer purchases, such as age, gender, item purchased, category, purchase amount, location, size, color, season, review rating, subscription status, shipping type, discount applied, promo code used, previous purchases, payment method, and frequency of purchases.
