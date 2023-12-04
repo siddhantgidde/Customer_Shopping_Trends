@@ -1,5 +1,5 @@
 # Customer_Shopping_Trends
-• In this project, I analyzed the Customer Shopping Preferences dataset by crafting SQL queries to gain valuable insights into consumer behavior and purchasing patterns. Additionally, I developed a Power BI dashboard to visualize these insights. The dataset, sourced from Kaggle, consists of 3900 records.
+• In this project, I analyzed the Customer Shopping Preferences dataset by writing SQL queries to gain valuable insights into consumer behavior and purchasing patterns. Additionally, I developed a Power BI dashboard to visually represent these 17 insights. The dataset, sourced from Kaggle, consists of 3900 records.
 
 #### From the analysis, I found answers to interesting questions such as:
 
